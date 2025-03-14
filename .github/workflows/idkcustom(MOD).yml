@@ -1,4 +1,4 @@
-name: Build Kernel Next-SUSFS For OP12r Pls Work
+name: Build Kernel Next-SUSFS(Stable) For OP12r
 on:
     workflow_dispatch:
         inputs:
