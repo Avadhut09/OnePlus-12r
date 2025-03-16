@@ -1,3 +1,4 @@
+# Thanks to OdymarGamer for this workflow 
 name: Build Kernel Next-SUSFS(Stable) For OP12r
 on:
     workflow_dispatch:
